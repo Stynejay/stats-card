@@ -87,6 +87,7 @@ p{
    body{
     width: 375px;
     height: 100vh;
+    border-radius: 0px;   
     
    }
    #card-info{
@@ -95,6 +96,7 @@ p{
     margin-left: 0px;
     display: flex;
     flex-direction: column-reverse;
+    margin-top: -20px;   
    }
    #right{
     display: flex;
